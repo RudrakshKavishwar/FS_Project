@@ -39,5 +39,3 @@ This project demonstrates a complete full-stack architecture including frontend,
 - VS Code
 
 ---
-
-## 📂 Project Structure
